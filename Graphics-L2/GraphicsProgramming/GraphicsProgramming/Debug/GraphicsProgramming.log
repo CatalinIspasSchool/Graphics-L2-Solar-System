@@ -1,12 +1,29 @@
 ﻿  Scene.cpp
-D:\ECHO\Engineering\C.Ispas\Graphics-L2\GraphicsProgramming\GraphicsProgramming\Scene.cpp(171,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
-D:\ECHO\Engineering\C.Ispas\Graphics-L2\GraphicsProgramming\GraphicsProgramming\Scene.cpp(178,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
-D:\ECHO\Engineering\C.Ispas\Graphics-L2\GraphicsProgramming\GraphicsProgramming\Scene.cpp(184,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-D:\ECHO\Engineering\C.Ispas\Graphics-L2\GraphicsProgramming\GraphicsProgramming\Scene.cpp(184,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-D:\ECHO\Engineering\C.Ispas\Graphics-L2\GraphicsProgramming\GraphicsProgramming\Scene.cpp(184,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-D:\ECHO\Engineering\C.Ispas\Graphics-L2\GraphicsProgramming\GraphicsProgramming\Scene.cpp(185,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
-D:\ECHO\Engineering\C.Ispas\Graphics-L2\GraphicsProgramming\GraphicsProgramming\Scene.cpp(191,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-D:\ECHO\Engineering\C.Ispas\Graphics-L2\GraphicsProgramming\GraphicsProgramming\Scene.cpp(191,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-D:\ECHO\Engineering\C.Ispas\Graphics-L2\GraphicsProgramming\GraphicsProgramming\Scene.cpp(191,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-D:\ECHO\Engineering\C.Ispas\Graphics-L2\GraphicsProgramming\GraphicsProgramming\Scene.cpp(192,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
-  GraphicsProgramming.vcxproj -> D:\ECHO\Engineering\C.Ispas\Graphics-L2\GraphicsProgramming\Debug\GraphicsProgramming.exe
+D:\ECHO\Engineering\C.Ispas\Graphics-L2-Solar-System\Graphics-L2\GraphicsProgramming\GraphicsProgramming\Scene.cpp(171,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\ECHO\Engineering\C.Ispas\Graphics-L2-Solar-System\Graphics-L2\GraphicsProgramming\GraphicsProgramming\Scene.cpp(172,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ECHO\Engineering\C.Ispas\Graphics-L2-Solar-System\Graphics-L2\GraphicsProgramming\GraphicsProgramming\Scene.cpp(178,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\ECHO\Engineering\C.Ispas\Graphics-L2-Solar-System\Graphics-L2\GraphicsProgramming\GraphicsProgramming\Scene.cpp(184,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\ECHO\Engineering\C.Ispas\Graphics-L2-Solar-System\Graphics-L2\GraphicsProgramming\GraphicsProgramming\Scene.cpp(184,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\ECHO\Engineering\C.Ispas\Graphics-L2-Solar-System\Graphics-L2\GraphicsProgramming\GraphicsProgramming\Scene.cpp(184,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\ECHO\Engineering\C.Ispas\Graphics-L2-Solar-System\Graphics-L2\GraphicsProgramming\GraphicsProgramming\Scene.cpp(185,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\ECHO\Engineering\C.Ispas\Graphics-L2-Solar-System\Graphics-L2\GraphicsProgramming\GraphicsProgramming\Scene.cpp(191,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\ECHO\Engineering\C.Ispas\Graphics-L2-Solar-System\Graphics-L2\GraphicsProgramming\GraphicsProgramming\Scene.cpp(191,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\ECHO\Engineering\C.Ispas\Graphics-L2-Solar-System\Graphics-L2\GraphicsProgramming\GraphicsProgramming\Scene.cpp(191,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\ECHO\Engineering\C.Ispas\Graphics-L2-Solar-System\Graphics-L2\GraphicsProgramming\GraphicsProgramming\Scene.cpp(192,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\ECHO\Engineering\C.Ispas\Graphics-L2-Solar-System\Graphics-L2\GraphicsProgramming\GraphicsProgramming\Scene.cpp(202,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\ECHO\Engineering\C.Ispas\Graphics-L2-Solar-System\Graphics-L2\GraphicsProgramming\GraphicsProgramming\Scene.cpp(208,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\ECHO\Engineering\C.Ispas\Graphics-L2-Solar-System\Graphics-L2\GraphicsProgramming\GraphicsProgramming\Scene.cpp(208,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\ECHO\Engineering\C.Ispas\Graphics-L2-Solar-System\Graphics-L2\GraphicsProgramming\GraphicsProgramming\Scene.cpp(208,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\ECHO\Engineering\C.Ispas\Graphics-L2-Solar-System\Graphics-L2\GraphicsProgramming\GraphicsProgramming\Scene.cpp(209,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\ECHO\Engineering\C.Ispas\Graphics-L2-Solar-System\Graphics-L2\GraphicsProgramming\GraphicsProgramming\Scene.cpp(209,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\ECHO\Engineering\C.Ispas\Graphics-L2-Solar-System\Graphics-L2\GraphicsProgramming\GraphicsProgramming\Scene.cpp(215,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\ECHO\Engineering\C.Ispas\Graphics-L2-Solar-System\Graphics-L2\GraphicsProgramming\GraphicsProgramming\Scene.cpp(215,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\ECHO\Engineering\C.Ispas\Graphics-L2-Solar-System\Graphics-L2\GraphicsProgramming\GraphicsProgramming\Scene.cpp(215,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\ECHO\Engineering\C.Ispas\Graphics-L2-Solar-System\Graphics-L2\GraphicsProgramming\GraphicsProgramming\Scene.cpp(216,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\ECHO\Engineering\C.Ispas\Graphics-L2-Solar-System\Graphics-L2\GraphicsProgramming\GraphicsProgramming\Scene.cpp(216,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\ECHO\Engineering\C.Ispas\Graphics-L2-Solar-System\Graphics-L2\GraphicsProgramming\GraphicsProgramming\Scene.cpp(224,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\ECHO\Engineering\C.Ispas\Graphics-L2-Solar-System\Graphics-L2\GraphicsProgramming\GraphicsProgramming\Scene.cpp(224,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\ECHO\Engineering\C.Ispas\Graphics-L2-Solar-System\Graphics-L2\GraphicsProgramming\GraphicsProgramming\Scene.cpp(224,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\ECHO\Engineering\C.Ispas\Graphics-L2-Solar-System\Graphics-L2\GraphicsProgramming\GraphicsProgramming\Scene.cpp(225,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\ECHO\Engineering\C.Ispas\Graphics-L2-Solar-System\Graphics-L2\GraphicsProgramming\GraphicsProgramming\Scene.cpp(225,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  GraphicsProgramming.vcxproj -> D:\ECHO\Engineering\C.Ispas\Graphics-L2-Solar-System\Graphics-L2\GraphicsProgramming\Debug\GraphicsProgramming.exe

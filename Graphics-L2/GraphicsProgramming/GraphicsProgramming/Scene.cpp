@@ -169,32 +169,65 @@ void Scene::drawSeven()
 	glPushMatrix();	//Sun
 		glColor3f(1, 1, 0);
 		glRotatef(time / 30, 0, 0, 1);
-		glTranslatef(4, 0, 0);
+		glTranslatef(7, 0, 0);
 
 		glutWireSphere(3, 20, 10);
 
-		glPushMatrix();	//Earth
+		glPushMatrix();	//Planet
 			glColor3f(0, 0, 1);
-			glRotatef(time / 10, 0, 0, 1);
+			glRotatef(time / 20, 0, 0, 1);
 			glTranslatef(20, 0, 0);
 
 			glutWireSphere(1, 10, 7);
 
 			glPushMatrix();	//Moon1
 				glColor3f(0.4, 0.4, 0.4);
-				glRotatef(time / 4, 0, 0, 1);
+				glRotatef(time / 5, 0, 0, 1);
 				glTranslatef(3, 0, 0);
 
 				glutWireSphere(0.4, 7, 5);
 			glPopMatrix();	//Moon1
 			glPushMatrix();	//Moon2
 				glColor3f(0.6, 0.6, 0.6);
-				glRotatef(time / 6, 0, 1, 0);
+				glRotatef(time / 8, 0, 1, 0);
 				glTranslatef(4.5, 0, 0);
 				
 				glutWireSphere(0.3, 7, 5);
 			glPopMatrix();	//Moon2
 		glPopMatrix();	//Planet
+
+		
+		glPushMatrix();	//Planet2
+			glColor3f(1, 0, 0);
+			glRotatef(time / 6, 0, 0, 1);
+			glTranslatef(10, 0, 0);
+
+			glutWireSphere(0.9, 10, 7);
+
+			glPushMatrix();	//Moon1
+				glColor3f(0.4, 0.4, 0.4);
+				glRotatef(time / 3, 0, 0.3, 1);
+				glTranslatef(3, 0, 0);
+
+				glutWireSphere(0.4, 7, 5);
+
+				glPushMatrix();	//Moonception
+					glColor3f(0.2, 0.2, 0.2);
+					glRotatef(time / 5, 0, 0.3, 1);
+					glTranslatef(3, 0, 0);
+
+					glutWireSphere(0.2, 7, 5);
+
+				glPopMatrix();	//Moonception
+			glPopMatrix();	//Moon1
+			glPushMatrix();	//Moon2
+				glColor3f(0.6, 0.6, 0.6);
+				glRotatef(time / 5, 0, 1, 0.6);
+				glTranslatef(4.5, 0, 0);
+				
+				glutWireSphere(0.3, 7, 5);
+			glPopMatrix();	//Moon2
+		glPopMatrix();	//Planet2
 	glPopMatrix();	//Sun
 
 
